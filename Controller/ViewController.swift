@@ -1,11 +1,10 @@
 //
 //  ViewController.swift
-//  Destini-iOS13
+//  CalmStoryTime
 //
-//  Created by Angela Yu on 08/08/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Joshua Godinez on 6/13/20.
+//  Copyright © 2020 Joshua Godinez. All rights reserved.
 //
-
 import UIKit
 
 class ViewController: UIViewController {
